@@ -1,3 +1,7 @@
+>[!DANGER]
+>
+>Visit https://gogs.io/api-reference instead
+
 # Overview
 
 This is a set of documents which describes Gogs REST API v1 usage, since it's still in early stage:
