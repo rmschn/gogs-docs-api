@@ -1,6 +1,6 @@
->[!DANGER]
+>[!CAUTION]
 >
->Visit https://gogs.io/api-reference instead
+>Visit https://gogs.io/api-reference instead.
 
 # Overview
 
